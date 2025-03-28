@@ -1,6 +1,6 @@
-Hi, I'm Erich.
+Hi, I'm Erich!
 
-* I mess around with code. That's why you're here. See below.
-* I knit for fun. See it at https://erichmadeit.com/
+* I knit for fun, and made a website from scratch to showcase it. See it here: https://erichmadeit.com/
+* I do QA for a fangame with friends for fun: https://discord.gg/mmx-corrupted-276041301965668352
 
 Bye!
